@@ -16,3 +16,6 @@
 [submodule "starters/people_spotting"]
 	path = starters/people_spotting
 	url = git@github.com:GreenWaves-Technologies/people_spotting.git
+[submodule "ingredients/image_classification_networks"]
+	path = ingredients/image_classification_networks
+	url = git@github.com:GreenWaves-Technologies/image_classification_networks.git
