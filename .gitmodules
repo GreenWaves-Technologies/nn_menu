@@ -1,0 +1,18 @@
+[submodule "main_courses/occupancy_management"]
+	path = main_courses/occupancy_management
+	url = git@github.com:GreenWaves-Technologies/occupancy_management.git
+[submodule "ingredients/MobilenetV1_Pytorch"]
+	path = ingredients/MobilenetV1_Pytorch
+	url = git@github.com:GreenWaves-Technologies/MobilenetV1_Pytorch.git
+[submodule "main_courses/FaceReID"]
+	path = main_courses/FaceReID
+	url = git@github.com:GreenWaves-Technologies/FaceReID.git
+[submodule "starters/face_detection"]
+	path = starters/face_detection
+	url = git@github.com:GreenWaves-Technologies/face_detection.git
+[submodule "starters/body_detection"]
+	path = starters/body_detection
+	url = git@github.com:GreenWaves-Technologies/body_detection.git
+[submodule "starters/people_spotting"]
+	path = starters/people_spotting
+	url = git@github.com:GreenWaves-Technologies/people_spotting.git
