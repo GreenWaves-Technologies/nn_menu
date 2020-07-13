@@ -22,3 +22,6 @@
 [submodule "ingredients/kws"]
 	path = ingredients/kws
 	url = git@github.com:GreenWaves-Technologies/kws.git
+[submodule "starters/vehicle_spotting"]
+	path = starters/vehicle_spotting
+	url = git@github.com:GreenWaves-Technologies/vehicle_spotting.git
