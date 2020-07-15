@@ -1,6 +1,6 @@
 # NN Menu
 
-The **Neural Network Menu\*** is a collection of software that implements Neural Networks on Greenwaves Application Processors (GAP). This repository contains common mobile and edge NN archtecture examples, NN sample applications and full flagged reference designs. Our tools maps a TFLITE model (quantized or unquantized) onto gap. There is also a flow in the starter directory showing how to hand map from a Pytorch Model onto GAP. 
+The **Neural Network Menu\*** is a collection of software that implements Neural Networks on Greenwaves Application Processors (GAP). This repository contains common mobile and edge NN archtecture examples, NN sample applications and full flagged reference designs. Our tools maps a TFLITE model (quantized or unquantized) onto gap. There is also a flow in the ingredients directory showing how to hand map from a Pytorch Model onto GAP. 
 
 For a detailed description of the content of each project please refer to the readme inside the project folder. 
 
