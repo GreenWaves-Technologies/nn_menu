@@ -25,3 +25,6 @@
 [submodule "starters/vehicle_spotting"]
 	path = starters/vehicle_spotting
 	url = git@github.com:GreenWaves-Technologies/vehicle_spotting.git
+[submodule "starters/licence_plate_recognition"]
+	path = starters/licence_plate_recognition
+	url = git@github.com:GreenWaves-Technologies/licence_plate_recognition.git
