@@ -28,3 +28,6 @@
 [submodule "starters/licence_plate_recognition"]
 	path = starters/licence_plate_recognition
 	url = git@github.com:GreenWaves-Technologies/licence_plate_recognition.git
+[submodule "starters/keyword_spotting"]
+	path = starters/keyword_spotting
+	url = git@github.com:GreenWaves-Technologies/keyword_spotting.git
