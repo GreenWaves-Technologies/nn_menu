@@ -23,6 +23,7 @@ Optimized models for common mobile and edge use cases. This is a playground to s
 
 Content of the folder:
 - Image Classification Networks (several versions of Mobilenet V1, V2, V3 minimalistic, full V3 to come)
+- Blaze Face (Face Detector + Facial Landmarks, from Google Media Pipe)
 - kws (Google Keyword Spotting)
 - Mobilenet V1 from Pytorch Model
 

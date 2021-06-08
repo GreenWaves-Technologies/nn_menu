@@ -31,3 +31,6 @@
 [submodule "starters/keyword_spotting"]
 	path = starters/keyword_spotting
 	url = git@github.com:GreenWaves-Technologies/keyword_spotting.git
+[submodule "ingredients/blaze_face"]
+	path = ingredients/blaze_face
+	url = git@github.com:GreenWaves-Technologies/blaze_face.git
