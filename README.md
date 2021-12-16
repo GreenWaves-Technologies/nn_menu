@@ -4,7 +4,7 @@ The **Neural Network Menu\*** is a collection of software that implements Neural
 
 For a detailed description of the content of each project please refer to the readme inside the project folder. 
 
-## Getting Started 
+## Getting Started
 
 To run the code in this repository you need to install and source the [gap sdk](https://github.com/GreenWaves-Technologies/gap_sdk).
 
@@ -14,7 +14,7 @@ Once the sdk is installed source the sourceme.sh in the root sdk folder and retr
 git clone --recurse-submodules -j4 git@github.com:GreenWaves-Technologies/nn_menu.git
 ```
 
-## Content of the repository 
+## Content of the repository
 
 The repository is divided into 4 different folders:
 
@@ -26,6 +26,7 @@ Content of the folder:
 - Blaze Face (Face Detector + Facial Landmarks, from Google Media Pipe)
 - kws (Google Keyword Spotting)
 - Mobilenet V1 from Pytorch Model
+- MCUNet
 
 These examples take image from file with semihosting in input and output the results through the shell.
 

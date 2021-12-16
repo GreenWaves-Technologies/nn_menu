@@ -34,3 +34,6 @@
 [submodule "ingredients/blaze_face"]
 	path = ingredients/blaze_face
 	url = git@github.com:GreenWaves-Technologies/blaze_face.git
+[submodule "ingredients/mcunet"]
+	path = ingredients/mcunet
+	url = git@github.com:GreenWaves-Technologies/mcunet.git
