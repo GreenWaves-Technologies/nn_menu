@@ -37,3 +37,6 @@
 [submodule "ingredients/mcunet"]
 	path = ingredients/mcunet
 	url = git@github.com:GreenWaves-Technologies/mcunet.git
+[submodule "sides/cifar10_quant_import"]
+	path = sides/cifar10_quant_import
+	url = git@github.com:GreenWaves-Technologies/cifar10_quant_import.git

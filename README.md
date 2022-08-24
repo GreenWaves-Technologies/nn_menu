@@ -46,6 +46,7 @@ These applications take an input from file with semihosting and output the resul
 #### **main courses**
 Full flagged applications (aka reference designs) running on [GAPoC series boards](https://greenwaves-technologies.com/store/).
 
+Content of the folder:
 - ReID (on GAPoC A)
 - Occupancy Management (on GAPoC B)
 
@@ -54,7 +55,11 @@ These applications take image from file with semihosting in input and output the
 
 #### **sides**
 
-Other tools, this is empty for the moment.
+This folders contains tools related to measurments and NNTool usage
+
+Content of the folder:
+- power_meas_utils: a project to batch measure energy consumption using a Picoscope&reg;
+- cifar10: This project shows how to train and load post training quantization statistics from Pytorch through ONNX and Tensorflow through TFLite into NNTool and deploy on GAP. 
 
 
 ## Futures Releases
