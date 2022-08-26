@@ -40,3 +40,6 @@
 [submodule "sides/cifar10_quant_import"]
 	path = sides/cifar10_quant_import
 	url = git@github.com:GreenWaves-Technologies/cifar10_quant_import.git
+[submodule "starters/tiny_denoiser"]
+	path = starters/tiny_denoiser
+	url = git@github.com:GreenWaves-Technologies/tiny_denoiser.git

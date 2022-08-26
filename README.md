@@ -39,6 +39,7 @@ Content of the folder:
 - Keyword Spotting ([speech_commands](https://www.tensorflow.org/datasets/catalog/speech_commands) from Tensorflow)
 - Licence Plate Recognition (Mobilenet SSDLite + LPRNet)
 - People Spotting (NN from [MIT Visual Wakeup Words](https://github.com/mit-han-lab/VWW))
+- Tiny Denoiser (Custon NN), only for GAP9
 - Vehicle Spotting (Customization and embedding of a deep learning pipeline for visual object spotting)
 
 These applications take an input from file with semihosting and output the results trough shell, they also run on our boards to be tested with input from drivers. For specific cameras configrations please check the readme in within each projects folder.  
